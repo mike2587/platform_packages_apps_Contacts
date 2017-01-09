@@ -137,6 +137,8 @@
     </plurals>
     <string name="all_contacts_tab_label" msgid="5948889261993124839">"Todos"</string>
     <string name="favorites_tab_label" msgid="1524869648904016414">"Favoritos"</string>
+    <!-- The title of "groups" tab. [CHAR LIMIT=14] -->
+    <string name="contacts_groups_label">Grupos</string>
     <string name="callBack" msgid="5498224409038809224">"Retornar chamada"</string>
     <string name="callAgain" msgid="3197312117049874778">"Ligar novamente"</string>
     <string name="returnCall" msgid="8171961914203617813">"Retornar chamada"</string>
@@ -296,7 +298,12 @@
     </plurals>
     <string name="quickcontact_contacts_number" msgid="6036916944287597682">"<xliff:g id="COUNT">%d</xliff:g> contatos vinculados"</string>
     <string name="quick_contact_display_name_with_phonetic" msgid="3692038078718876610">"<xliff:g id="DISPLAY_NAME">%s</xliff:g> (<xliff:g id="PHONETIC_NAME">%s</xliff:g>)"</string>
-    <string name="quickcontact_suggestion_link_button" msgid="3244619714781727946">"VINCULAR CONTATOS"</string>
+    <!-- Menu item used to refresh a specific contact -->
+    <string name="menu_refresh">Atualizar</string>
+
+    <string name="video_call">Chamada de vídeo</string>
+
+     <string name="quickcontact_suggestion_link_button" msgid="3244619714781727946">"VINCULAR CONTATOS"</string>
     <string name="quickcontact_suggestion_cancel_button" msgid="8236954313106630862">"CANCELAR"</string>
     <plurals name="quickcontact_suggestion_card_title" formatted="false" msgid="2660005966628746406">
       <item quantity="one"><xliff:g id="COUNT">%d</xliff:g> possíveis cópias</item>
