@@ -137,6 +137,7 @@
     </plurals>
     <string name="all_contacts_tab_label" msgid="5948889261993124839">"Tutti"</string>
     <string name="favorites_tab_label" msgid="1524869648904016414">"Preferiti"</string>
+     <string name="contacts_groups_label">Gruppi</string>
     <string name="callBack" msgid="5498224409038809224">"Richiama"</string>
     <string name="callAgain" msgid="3197312117049874778">"Richiama"</string>
     <string name="returnCall" msgid="8171961914203617813">"Chiama numero"</string>
@@ -328,4 +329,63 @@
     <string name="photo_view_description_checked_no_info" msgid="4974335987092590591">"Foto di un account sconosciuto selezionata"</string>
     <string name="locale_change_in_progress" msgid="1124266507671178413">"L\'elenco contatti verrà aggiornato per rispecchiare il cambio di lingua.\n\nAttendi..."</string>
     <string name="menu_blocked_numbers" msgid="5272951629083025995">"Numeri bloccati"</string>
+     
+     <string name="menu_copyTo">"Copia su "</string>
+    <string name="no_empty_email_in_usim">"La posta elettronica è piena, qualche copia di registrazione non è riuscita"</string>
+
+    <string name="voicemail">Segreteria telefonica</string>
+    <string name="select_call_title">Selezionare i registri delle chiamate</string>
+    <string name="delete_call_title">Eliminare i registri delle chiamate</string>
+    <string name="delete_call_message">Eliminazione dei registri delle chiamate ...</string>
+    <string name="delete_call_alert">Sicuro di voler eliminare i registri delle chiamate selezionate?</string>
+    <string name="title_del_call">Elimina</string>
+    <string name="title_add_members">Aggiungi membri</string>
+    <!-- MultiPickActivity -->
+    <string name="multi_pick_recent_title">RECENTE</string>
+    <string name="multi_pick_contacts_title">CONTATTI</string>
+    <string name="multi_pick_group_title">GRUPPO</string>
+
+    <string name="contacts_selected">%d selezionato</string>
+
+    <string name="summary_count_numbers">%s numeri</string>
+
+    <string name="contact_info_text_as_name">Nome:</string>
+    <string name="contact_info_text_as_phone">Tel:</string>
+    <string name="contact_info_text_as_email">Email:</string>
+
+    <!-- The hint text in search-view.-->
+    <string name="search_menu_search">Ricerca</string>
+
+    <!-- The call-log's clear button text in pick call mode. -->
+    <string name="clear_call_log_button_text">Cancella</string>
+
+    <!-- String used to display calls from unknown numbers in the call log -->
+    <string name="unknown">Sconosciuto</string>
+
+    <!-- String used to display calls from private numbers in the call log -->
+    <string name="private_num">Numero privato</string>
+
+    <!-- String used to display calls from pay phone in the call log -->
+    <string name="payphone">Telefono pubblico</string>
+     
+    <!--Toast msg when user select too many contacts to merge-->
+    <string name="too_many_contacts_to_merge_message">Troppi contatti, devono essere inferiore a <xliff:g id="count">%d</xliff:g></string>
+
+    <string name="replace_number_title_1">Sostituire il numero precedente</string>
+    <string name="replace_number_title_2">Sostituire il numero precedente?</string>
+    <string name="replace_number_question_mark">\?</string>
+    <string name="replace_button">SOSTITUIRE</string>
+
+    <!-- merge contacts -->
+    <string name="merge_contacts">"Unisci i contatti"</string>
+    <string name="merging_contacts">"Unione dei contatti"</string>
+    <string name="searching_duplicated_contacts">"Ricerca contatti duplicati"</string>
+    <string name="no_duplicated_contacts">"Non ci sono contatti duplicati"</string>
+    <string name="give_up_merging">"Rinuncia a unire i contatti?"</string>
+    <string name="give_up">"Rinuncia"</string>
+    <string name="cancel">"Cancella"</string>
+    <string name="merge_complete">"Unione completa."</string>
+    <string name="sim_email_full">"e-mail SIM card è piena."</string>
+    <string name="sim_anr_full">"Numeri della SIM card piena."</string>
+    <string name="merge_fail">"Unione fallita."</string>
 </resources>
