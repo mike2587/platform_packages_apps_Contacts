@@ -328,4 +328,10 @@
     <string name="photo_view_description_checked_no_info" msgid="4974335987092590591">"Se ha seleccionado una foto de una fuente desconocida"</string>
     <string name="locale_change_in_progress" msgid="1124266507671178413">"La lista de contactos se está actualizando para reflejar el cambio de idioma.\n\nPor favor, espera..."</string>
     <string name="menu_blocked_numbers" msgid="5272951629083025995">"Números bloqueados"</string>
+    <!-- The title of "groups" tab. [CHAR LIMIT=14] -->
+    <string name="contacts_groups_label">Grupos</string>
+    <!-- Menu item used to refresh a specific contact -->
+    <string name="menu_refresh">Actualizar</string>
+    <string name="video_call">Videollamada</string>
+    <string name="quickcontact_suggestion_link_button" msgid="3244619714781727946">"VINCULAR CONTACTOS"</string> 
 </resources>
