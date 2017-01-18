@@ -341,7 +341,7 @@
     <string name="title_del_call">Elimina</string>
     <string name="title_add_members">Aggiungi membri</string>
     <!-- MultiPickActivity -->
-    <string name="multi_pick_recent_title">RECENTE</string>
+    <string name="multi_pick_recent_title">RECENTI</string>
     <string name="multi_pick_contacts_title">CONTATTI</string>
     <string name="multi_pick_group_title">GRUPPO</string>
 
@@ -372,9 +372,9 @@
     <string name="too_many_contacts_to_merge_message">Troppi contatti, devono essere inferiore a <xliff:g id="count">%d</xliff:g></string>
 
     <string name="replace_number_title_1">Sostituire il numero precedente</string>
-    <string name="replace_number_title_2">Sostituire il numero precedente?</string>
+    <string name="replace_number_title_2">Sostituisci il numero precedente?</string>
     <string name="replace_number_question_mark">\?</string>
-    <string name="replace_button">SOSTITUIRE</string>
+    <string name="replace_button">SOSTITUISCI</string>
 
     <!-- merge contacts -->
     <string name="merge_contacts">"Unisci i contatti"</string>
@@ -388,4 +388,6 @@
     <string name="sim_email_full">"e-mail SIM card è piena."</string>
     <string name="sim_anr_full">"Numeri della SIM card piena."</string>
     <string name="merge_fail">"Unione fallita."</string>
+    <string name="menu_refresh">Aggiorna</string>
+    <string name="video_call">Videochiamata</string>
 </resources>
